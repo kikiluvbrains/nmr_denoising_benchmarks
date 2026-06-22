@@ -1,0 +1,12 @@
+TITLE=1H CALS
+
+SAMPLE: cholic acid in D6-DMSO
+run at RT / no temp control
+
+5 ppm o1p
+p1 = 10.130 us
+
+*** NOTES ***
+
+
+*** TEMPLATE IDEA ***TITLE_END

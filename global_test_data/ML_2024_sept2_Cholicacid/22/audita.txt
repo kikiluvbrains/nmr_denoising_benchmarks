@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ D:/data/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_Cholicacid/22/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-09-15 15:28:12.479 -0400>,<root>,<lcnmr>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2024-09-15 15:27:51.913 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       DC 96 EC EF 69 FF 63 32 6A 52 18 BD 99 E7 61 00
+       data hash MD5: 32K
+       77 4E 10 8B 9B A4 24 DD CF E7 41 F8 3F 4E CE EB>)
+##END=
+
+$$ hash MD5
+$$ AB 2C 68 98 04 08 A7 F5 5F 88 55 60 FE D3 24 78

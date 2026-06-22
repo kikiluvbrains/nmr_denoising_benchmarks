@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ 2024-09-03 14:10:56.392 -0400  root@lcnmr
+$$ D:/data/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_TEMPLATE/30/pdata/1/outd
+$$ process C:\Bruker\TopSpin3.5pl7\prog\mod\dirdata.exe
+##$CURPLOT= <PDF Complete>
+##$CURPRIN= <$PDF Complete>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/13c.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

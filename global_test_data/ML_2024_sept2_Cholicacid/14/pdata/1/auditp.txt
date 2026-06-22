@@ -1,0 +1,38 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ D:/data/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_Cholicacid/14/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-09-15 15:27:10.299 -0400>,<root>,<lcnmr>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2024-09-15 15:26:49.749 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       DC 96 EC EF 69 FF 63 32 6A 52 18 BD 99 E7 61 00
+       data hash MD5: 32K
+       48 03 1F 4C A7 24 50 B0 27 0B 59 A8 8F F6 9D 50>)
+(   2,<2025-06-09 13:01:42.544 -0400>,<root>,<lcnmr>,<proc1d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 147.7276 PHC1 = -53.55025 SI = 64K 
+       data hash MD5: 64K
+       EE 73 14 AD 31 5E C4 D3 CA 7A 1E 21 23 98 F9 94>)
+$$ C:/Bruker/TopSpin4.1.4/data/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_Cholicacid/14/pdata/1/auditp.txt
+(   3,<2025-06-09 13:54:29.772 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 SI to 8192>)
+(   4,<2025-06-09 13:54:31.990 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 LB to 2.00>)
+(   5,<2025-06-09 13:54:34.140 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = 147.7276 PHC1 = -53.55025 SI = 8K 
+       data hash MD5: 8K
+       FA 4F CD 9E 27 A0 A2 10 6A AA 25 2E AF A7 9F C1>)
+(   6,<2025-10-08 12:48:53.220 -0400>,<william.wolff>,<Magnum-Opus>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = 147.7276 PHC1 = -53.55025 SI = 8K 
+       data hash MD5: 8K
+       FA 4F CD 9E 27 A0 A2 10 6A AA 25 2E AF A7 9F C1>)
+##END=
+
+$$ hash MD5
+$$ 7E 71 F6 A4 03 D5 F4 99 95 EA 17 55 34 C3 CE B4

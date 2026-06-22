@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ 2024-09-15 19:41:15.129 -0400  root@lcnmr
+$$ D:/data/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_Cholicacid/20/pdata/1/assocs
+$$ process C:\Bruker\TopSpin3.5pl7\prog\mod\dataserver.exe
+##$MULTDISP= <D:/data/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_Cholicacid/10/pdata/1|D:/data/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_Cholicacid/2/pdata/1>
+##END=

@@ -1,0 +1,5 @@
+; Minimal Bruker pulseprogram created by write_pprog
+"acqt0=-p1*2/3.1416"
+"MCREST = 30m - 30m"
+"MCWRK = 0.333333*30m"
+lo to 0 times 32768.0

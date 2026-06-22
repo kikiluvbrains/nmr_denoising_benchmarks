@@ -1,0 +1,30 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= william.wolff
+$$ C:/Bruker/TopSpin4.1.4/data/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_Cholicacid/10/pdata/10/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2025-10-08 12:59:00.979 -0400>,<william.wolff>,<Magnum-Opus>,<proc1d>,<TopSpin 4.1.4>,
+      <accumulate start offset = 0 scale = 1 ppm
+       1 10 "ML_2024_sept2_Cholicacid" "C:/Bruker/TopSpin4.1.4/data/WilliamWWolff-TBI-MLCollaborator"
+       data hash MD5: 64K
+       8A 8F 2F 8B 2A 37 16 9E ED C6 28 BF 38 1B 78 39>)
+(   2,<2025-10-08 12:59:01.022 -0400>,<william.wolff>,<Magnum-Opus>,<proc1d>,<TopSpin 4.1.4>,
+      <accumulate offset = 0 scale = 1 ppm
+       1 11 "ML_2024_sept2_Cholicacid" "C:/Bruker/TopSpin4.1.4/data/WilliamWWolff-TBI-MLCollaborator"
+       data hash MD5: 64K
+       32 2C B9 FC 32 B6 B6 78 7A CA B2 8A 5D EA D1 38>)
+(   3,<2025-10-08 12:59:01.072 -0400>,<william.wolff>,<Magnum-Opus>,<proc1d>,<TopSpin 4.1.4>,
+      <accumulate offset = 0 scale = 1 ppm
+       1 12 "ML_2024_sept2_Cholicacid" "C:/Bruker/TopSpin4.1.4/data/WilliamWWolff-TBI-MLCollaborator"
+       data hash MD5: 64K
+       D1 39 4F CC 13 26 10 DE 0E 1B 80 BC 55 1B 53 5A>)
+(   4,<2025-10-08 12:59:01.111 -0400>,<william.wolff>,<Magnum-Opus>,<proc1d>,<TopSpin 4.1.4>,
+      <accumulate offset = 0 scale = 1 ppm
+       1 13 "ML_2024_sept2_Cholicacid" "C:/Bruker/TopSpin4.1.4/data/WilliamWWolff-TBI-MLCollaborator"
+       data hash MD5: 64K
+       9C 14 E1 CF CD 43 61 5E 84 8A 79 81 7A FC 82 E5>)
+##END=
+
+$$ hash MD5
+$$ FA 01 1A 38 F2 7B 37 E7 05 17 37 1E 03 DE 2E 8B

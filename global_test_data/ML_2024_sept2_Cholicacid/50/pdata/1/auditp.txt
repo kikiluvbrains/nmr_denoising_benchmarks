@@ -1,0 +1,58 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ D:/data/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_TEMPLATE/50/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-09-03 14:22:35.402 -0400>,<root>,<lcnmr>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2024-09-03 14:22:18.856 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       DC 96 EC EF 69 FF 63 32 6A 52 18 BD 99 E7 61 00
+       data hash MD5: 32K
+       9E 2E 1A 65 CB D6 BA 2E CE A9 66 6C 1A 9D C9 8D>)
+(   2,<2024-09-03 14:23:07.976 -0400>,<root>,<lcnmr>,<proc1d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 147.7276 PHC1 = -53.55025 SI = 64K 
+       data hash MD5: 64K
+       A4 E7 BA 57 8A 8D 93 2E 4B 5E C3 B3 91 B8 3A E6>)
+(   3,<2024-09-03 14:24:40.976 -0400>,<root>,<lcnmr>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=ultralow sensitivity 13C - 1 % pw90TITLE_END
+       data hash MD5: 64K
+       A4 E7 BA 57 8A 8D 93 2E 4B 5E C3 B3 91 B8 3A E6>)
+(   4,<2024-09-03 14:24:41.084 -0400>,<root>,<lcnmr>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=ultralow sensitivity 13C - 1 % pw90TITLE_END
+       data hash MD5: 64K
+       A4 E7 BA 57 8A 8D 93 2E 4B 5E C3 B3 91 B8 3A E6>)
+(   5,<2024-09-03 14:24:41.210 -0400>,<root>,<lcnmr>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=ultralow sensitivity 13C - 1 % pw90TITLE_END
+       data hash MD5: 64K
+       A4 E7 BA 57 8A 8D 93 2E 4B 5E C3 B3 91 B8 3A E6>)
+(   6,<2024-09-03 14:32:28.670 -0400>,<root>,<lcnmr>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=ultralow sensitivity 13C - 3 % pw90TITLE_END
+       data hash MD5: 64K
+       A4 E7 BA 57 8A 8D 93 2E 4B 5E C3 B3 91 B8 3A E6>)
+(   7,<2024-09-03 14:32:28.787 -0400>,<root>,<lcnmr>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=ultralow sensitivity 13C - 3 % pw90TITLE_END
+       data hash MD5: 64K
+       A4 E7 BA 57 8A 8D 93 2E 4B 5E C3 B3 91 B8 3A E6>)
+(   8,<2024-09-03 14:32:28.910 -0400>,<root>,<lcnmr>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=ultralow sensitivity 13C - 3 % pw90TITLE_END
+       data hash MD5: 64K
+       A4 E7 BA 57 8A 8D 93 2E 4B 5E C3 B3 91 B8 3A E6>)
+(   9,<2024-09-03 14:32:29.059 -0400>,<root>,<lcnmr>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       TITLE=ultralow sensitivity 13C - 3 % pw90TITLE_END
+       data hash MD5: 64K
+       A4 E7 BA 57 8A 8D 93 2E 4B 5E C3 B3 91 B8 3A E6>)
+##END=
+
+$$ hash MD5
+$$ 23 82 AF 2C FD F9 96 AA 57 93 7A E5 78 1A 44 CA

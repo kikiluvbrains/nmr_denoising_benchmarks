@@ -1,0 +1,52 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= william.wolff
+$$ C:/Bruker/TopSpin4.1.4/data/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_Cholicacid/11/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-09-15 15:26:08.104 -0400>,<root>,<lcnmr>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2024-09-15 15:25:47.539 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       DC 96 EC EF 69 FF 63 32 6A 52 18 BD 99 E7 61 00
+       data hash MD5: 32K
+       D9 30 03 AD 19 17 DB AA FA 37 50 7E 94 0A E3 30>)
+(   2,<2025-10-08 12:47:44.858 -0400>,<william.wolff>,<Magnum-Opus>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       em LB = 0.3 SI = 64K 
+       data hash MD5: 64K
+       96 7D 0E 80 6F 56 5F AD C2 9C 3B CD 3A 70 90 A6>)
+(   3,<2025-10-08 12:47:44.925 -0400>,<william.wolff>,<Magnum-Opus>,<proc1d>,<TopSpin 4.1.4>,
+      <ft FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       EC 47 4C F9 82 22 9B 5F 8F 93 C2 46 17 ED E2 CA>)
+(   4,<2025-10-08 12:47:45.083 -0400>,<william.wolff>,<Magnum-Opus>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 64K
+       8D D5 14 11 16 A2 7F C4 21 DF 44 75 21 86 A7 D0>)
+(   5,<2025-10-08 12:47:45.148 -0400>,<william.wolff>,<Magnum-Opus>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       42 29 BF F9 1B 5D 9C 90 39 B9 05 3B 2B 71 56 6B>)
+(   6,<2025-10-08 12:47:46.160 -0400>,<william.wolff>,<Magnum-Opus>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 102.6748 PHC1 = 36.19532 SI = 64K 
+       data hash MD5: 64K
+       63 D4 A6 2B 28 AF 13 7F 14 28 03 2A E6 5D D9 8B>)
+(   7,<2025-10-08 12:48:16.065 -0400>,<william.wolff>,<Magnum-Opus>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 102.6748 PHC1 = 36.19532 SI = 64K 
+       data hash MD5: 64K
+       63 D4 A6 2B 28 AF 13 7F 14 28 03 2A E6 5D D9 8B>)
+(   8,<2025-10-08 12:48:27.233 -0400>,<william.wolff>,<Magnum-Opus>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 LB to 1.00>)
+(   9,<2025-10-08 12:48:28.353 -0400>,<william.wolff>,<Magnum-Opus>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = 102.6748 PHC1 = 36.19532 SI = 64K 
+       data hash MD5: 64K
+       11 92 40 AB 18 51 8E 62 E3 F1 93 D5 A0 C8 3D 7D>)
+##END=
+
+$$ hash MD5
+$$ 45 16 F7 BA 4C 36 EE 4A 55 74 CB D4 C5 A6 5A F4

@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 4.1.4
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= william.wolff
+$$ 2025-10-08 13:07:37.553 -0400  william.wolff@Magnum-Opus
+$$ C:/Bruker/TopSpin4.1.4/data/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_Cholicacid/20/pdata/10/outd
+$$ process C:\Bruker\TopSpin4.1.4\prog\mod\proc1d.exe
+##$CURPLOT= <PDF Complete>
+##$CURPRIN= <$PDF Complete>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/13c.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=
