@@ -12,8 +12,9 @@ cd nmr_denoising_benchmarks
 py -3.11 -m venv .venv
 .venv/Scripts/Activate
 python.exe -m pip install --upgrade pip
-pip install -r requirements.txt
+pip install -r requirements.txt --no-cache-dir
 ```
+
 Please make sure to install the requirements.txt to avoid conflicts between packages.
 
 For PyTorch with CUDA,
