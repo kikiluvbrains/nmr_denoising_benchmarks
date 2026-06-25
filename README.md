@@ -11,7 +11,7 @@ git clone https://github.com/kikiluvbrains/nmr_denoising_benchmarks
 cd nmr_denoising_benchmarks
 py -3.11 -m venv .venv
 .venv/Scripts/Activate
-python -m pip install --upgrade
+python.exe -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 Please make sure to install the requirements.txt to avoid conflicts between packages.
