@@ -2,7 +2,7 @@
 Benchmarking DESPERATE against existing denoising methods for ¹H NMR sequences.
 
 
-# Installation (DO NOT RUN YET)
+# Installation
 
 For Windows, open a cmd in the location you want to install, and copy-paste the following, while having Python 3.11 installed:
 
