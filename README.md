@@ -9,7 +9,7 @@ For Windows, open a cmd in the location you want to install, and copy-paste the 
 ```
 git clone https://github.com/kikiluvbrains/nmr_denoising_benchmarks
 cd nmr_denoising_benchmarks
-py -3.11 -m venv .venv
+python -3.11 -m venv .venv
 .venv/Scripts/Activate
 python.exe -m pip install --upgrade pip
 pip install -r requirements.txt --no-cache-dir
