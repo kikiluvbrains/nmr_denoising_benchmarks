@@ -26,3 +26,9 @@ For PyTorch with CPU,
 ```
 pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cpu
 ```
+
+For Mac: 
+```
+conda install pytorch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 cpuonly -c pytorch
+git clone https://github.com/kikiluvbrains/nmr_denoising_benchmarks
+```
