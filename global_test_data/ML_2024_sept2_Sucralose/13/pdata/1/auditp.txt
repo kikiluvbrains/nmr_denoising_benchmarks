@@ -1,0 +1,54 @@
+##TITLE= Audit trail, TopSpin 4.1.4
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= william.wolff
+$$ C:/Bruker/TopSpin4.1.4/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_Sucralose/13/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-09-15 20:03:14.443 -0400>,<root>,<lcnmr>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2024-09-15 20:02:53.874 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       DC 96 EC EF 69 FF 63 32 6A 52 18 BD 99 E7 61 00
+       data hash MD5: 32K
+       EF B9 4F 82 F4 A3 97 17 83 C8 05 F0 2A DE BD F7>)
+(   2,<2024-09-18 15:30:48.578 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       em LB = 0.3 SI = 64K 
+       data hash MD5: 64K
+       4D D6 8B 3F 39 58 86 42 53 74 1A D5 0C B8 BC 45>)
+(   3,<2024-09-18 15:30:48.669 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<proc1d>,<TopSpin 4.1.4>,
+      <ft FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       1B 07 A0 62 9C 82 FE 15 78 42 03 C2 04 DE 67 BF>)
+(   4,<2024-09-18 15:30:48.949 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 64K
+       27 5F 2C 56 FB 3B EB 7D D5 A9 40 5B F6 0E B3 73>)
+(   5,<2024-09-18 15:30:49.038 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<proc1d>,<TopSpin 4.1.4>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       61 AA 2F 97 E0 E8 30 4D DA 51 D2 5D EA 66 AE EA>)
+(   6,<2024-09-18 15:30:49.720 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 PHC1 to 0>)
+(   7,<2024-09-18 15:30:49.747 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 PHC0 to 0>)
+(   8,<2024-09-18 15:30:49.772 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 LB to 3.00>)
+(   9,<2024-09-18 15:30:49.870 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp LB = 3 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 64K 
+       data hash MD5: 64K
+       C8 F7 30 78 0C D8 51 55 06 05 1C 0F D3 A4 E1 1B>)
+(  10,<2024-09-18 15:30:50.181 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 64K
+       5C 50 53 0F E4 FD 68 47 A7 AD 49 61 A2 36 E4 7F>)
+(  11,<2024-09-18 15:30:51.687 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<proc1d>,<TopSpin 4.1.4>,
+      <pk fgphup PHC0 = 0 PHC1 = 0 
+       data hash MD5: 64K
+       5C 50 53 0F E4 FD 68 47 A7 AD 49 61 A2 36 E4 7F>)
+##END=
+
+$$ hash MD5
+$$ F3 AD D8 0B 73 C7 BE AC 27 9D 76 C2 9A 92 CB EE

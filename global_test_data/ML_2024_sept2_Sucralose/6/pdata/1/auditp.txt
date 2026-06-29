@@ -1,0 +1,43 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ D:/data/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_D-glucose/6/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-09-15 15:25:26.665 -0400>,<root>,<lcnmr>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2024-09-15 15:24:59.722 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       DC 96 EC EF 69 FF 63 32 6A 52 18 BD 99 E7 61 00
+       data hash MD5: 32K
+       05 29 0E 4F 3D 6C B4 C3 CC BD DC 1F 35 43 A8 FB>)
+(   2,<2024-09-15 19:26:11.310 -0400>,<root>,<lcnmr>,<proc1d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 151.5163 PHC1 = -62.6265 SI = 64K 
+       data hash MD5: 64K
+       FB 16 3E 2B F2 B3 E3 42 A2 77 34 87 25 30 38 B7>)
+$$ C:/Bruker/TopSpin4.1.4/WilliamWWolff-TBI-MLCollaborator/ML_2024_sept2_Sucralose/6/pdata/1/auditp.txt
+(   3,<2024-09-18 15:30:26.036 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 PHC1 to 0>)
+(   4,<2024-09-18 15:30:26.062 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 PHC0 to 0>)
+(   5,<2024-09-18 15:30:26.103 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<cprserver>,<TopSpin 4.1.4>,
+      <changed parameter F1 LB to 3.00>)
+(   6,<2024-09-18 15:30:26.201 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<proc1d>,<TopSpin 4.1.4>,
+      <Start of raw data processing
+       efp LB = 3 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 64K 
+       data hash MD5: 64K
+       03 1F 1E 11 F0 13 86 0C 71 E9 3C F8 0D F5 44 DA>)
+(   7,<2024-09-18 15:30:26.727 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<proc1d>,<TopSpin 4.1.4>,
+      <apk 
+       data hash MD5: 64K
+       30 9F 11 88 BA 40 BB DF EC 91 9D 9E 00 2C B7 AC>)
+(   8,<2024-09-18 15:30:32.706 -0400>,<william.wolff>,<DESKTOP-S8KKQC6>,<proc1d>,<TopSpin 4.1.4>,
+      <pk fgphup PHC0 = -11.10912 PHC1 = 21.275 
+       data hash MD5: 64K
+       25 98 77 F4 7D 5C BC 17 A0 F7 98 1D A8 4F F4 87>)
+##END=
+
+$$ hash MD5
+$$ DE 53 37 98 1C A2 8D B3 96 4A C2 52 31 1C 1B 88
