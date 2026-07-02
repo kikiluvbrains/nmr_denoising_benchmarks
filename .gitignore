@@ -1,2 +1,3 @@
 .venv/
 benchmark_all_data/
+nmr_denoise_benchmarks_all_figs/
